@@ -1,2 +1,2 @@
 # WZLX
-WZLX Boston classic rock station Desktop pyhton app
+WZLX Boston classic rock station Desktop python app
